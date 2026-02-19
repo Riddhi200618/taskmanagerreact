@@ -1,16 +1,15 @@
-# My First React App
+# Task Manager App
 
-This is a basic React application created using Create React App.
+A simple Task Manager built using React.
 
 ## 📌 Features
 
-- Functional Components
-- Props usage (Greeting component)
+- Display task list
+- Add new tasks
+- Delete tasks
 - useState Hook
-- Navbar component
-- TextForm component
+- Dynamic rendering using map()
 - User input handling
-- Uppercase text conversion
 
 ## 📂 Project Structure
 src/
